@@ -1,0 +1,8 @@
+check,expected,observed,passed
+row_count_matches_brief,248227,248227,True
+required_columns_present,57,57,True
+instrument_is_optidx_only,OPTIDX,OPTIDX,True
+indices_are_nifty_and_banknifty,"BANKNIFTY, NIFTY","BANKNIFTY, NIFTY",True
+option_price_equals_settlement_price,all rows,248227,True
+event_date_matches_brief,2018-09-04,2018-09-04,True
+date_range_matches_brief,2018-06-01 to 2018-12-31,2018-06-01 to 2018-12-31,True
